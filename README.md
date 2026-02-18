@@ -56,7 +56,7 @@ Relationships are implemented using primary and foreign keys to ensure data inte
 
 ## 📂 Repository Contents
 
-Click Below to viweFull project documentation :-
+Click Below to viweFull project documentation :-[view SQL Project PDF] (https://github.com/jayeshkirange28-cmd/Mutual-Fund-SQL-Project/blob/main/SQL_Project.pdf)
 
 📈 Learning Outcomes
 
